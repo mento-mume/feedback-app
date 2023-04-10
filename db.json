@@ -14,6 +14,11 @@
       "text": "this is an updated item",
       "rating": 8,
       "id": 3
+    },
+    {
+      "text": "how are you?",
+      "rating": 3,
+      "id": 4
     }
   ]
 }
